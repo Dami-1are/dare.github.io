@@ -8,5 +8,3 @@ Human Resources Analyst @ FanMilk Plc
 
 ### Projects
 ***Bike Sales Data***
-
-etc... 
